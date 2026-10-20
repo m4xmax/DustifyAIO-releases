@@ -1,0 +1,12 @@
+- [Introduction](/)
+- [Basic rules](basic-rules.md)
+- [Download & launch](download-and-launch.md)
+- [Profiles](profiles.md)
+- [Tasks](tasks.md)
+- [Proxies](proxies.md)
+- [Generator](generator.md)
+- [Settings](settings.md)
+- [Stats](stats.md)
+- [Support](support.md)
+
+- [Česky ↗](../cs/)

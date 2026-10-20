@@ -1,0 +1,12 @@
+- [Úvod](/)
+- [Základní pravidla](zakladni-pravidla.md)
+- [Stažení a spuštění](stazeni-bota.md)
+- [Profiles](profiles.md)
+- [Tasks](tasks.md)
+- [Proxies](proxies.md)
+- [Generator](generator.md)
+- [Settings](settings.md)
+- [Stats](stats.md)
+- [Podpora](podpora.md)
+
+- [English ↗](../en/)
