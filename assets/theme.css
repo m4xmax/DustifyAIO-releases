@@ -186,10 +186,10 @@ body.close .content {
 /* Content — left-aligned under the flex content pane */
 .markdown-section {
   box-sizing: border-box !important;
-  max-width: 720px !important;
+  max-width: 760px !important;
   width: 100% !important;
-  margin: 0 auto !important;
-  padding: 36px 40px 80px !important;
+  margin: 0 !important;
+  padding: 36px 48px 80px !important;
   float: none !important;
   text-align: left !important;
   color: var(--text) !important;
