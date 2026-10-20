@@ -19,23 +19,21 @@ On each profile you can fill random details by country:
 
 Great for quick address generation. Still double-check that the address makes sense for the shop (especially Rohlik).
 
-## Per-site tips
-
-### CDMC
+## CDMC
 
 Shoptet-based → you can run **guest** (no CDMC-specific account required).
 
 - **Always** set a **pickup point ID** on every profile
 - Guest is convenient; for important drops an account is usually more stable
 
-### Alza
+## Alza
 
 - **Run with accounts** — guest can bug / error out
 - The module is mainly ready for **Pokémon** products
 - Create accounts in the [Generator](generator.md) — they sync into Profiles
 - **Don’t forget to enable Alzaboxy**
 
-### Toredo
+## Toredo
 
 Same logic as CDMC (Shoptet):
 
@@ -43,25 +41,25 @@ Same logic as CDMC (Shoptet):
 - Always set **pickup point ID**
 - Account = better session handling
 
-### Dobré knihy
+## Dobré knihy
 
 - You can enable **store pickup** at the bottom
 - Guest works, but **prefer accounts** — better session handling, fewer things that can break
 
-### Rohlik
+## Rohlik
 
 - **Strongly recommended** to use real accounts in the profile
 - Rohlik is inconsistent with products/addresses — some regions see stock, others don’t
 - Fill the address **exactly** (street, city, ZIP) as on the account to avoid unnecessary errors
 
-### Černý rytíř
+## Černý rytíř
 
 - You must **create / generate accounts yourself**
 - Only **real existing accounts** can be added — no guest checkout
 - Store **pickup** is available
 - **Don’t forget to select a pickup point**
 
-### Shopify
+## Shopify
 
 - Fill in **CC details** (card) on the profile
 - Without correct payment details, checkout won’t complete
