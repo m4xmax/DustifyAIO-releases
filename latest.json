@@ -1,8 +1,9 @@
 {
-    "version":  "1.6.0",
-    "url":  "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.6.0/DustifyAIO.exe",
-    "notes":  "Changelog v. 1.6",
+    "version":  "1.7.0",
+    "url":  "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.7.0/DustifyAIO.exe",
+    "notes":  "Changelog v. 1.7",
     "changelog":  [
-                      "hardened anti-tamper + sus alerts"
+                      "task stop tweak",
+                      "ui tweak"
                   ]
 }
