@@ -1,8 +1,8 @@
 {
     "changelog":  [
-                      "silent update (no console flash)"
+                      "fix update loop"
                   ],
-    "url":  "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.8.0/DustifyAIO.exe",
-    "version":  "1.8.0",
-    "notes":  "Changelog v. 1.8"
+    "url":  "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.9.0/DustifyAIO.exe",
+    "version":  "1.9.0",
+    "notes":  "Changelog v. 1.9"
 }
