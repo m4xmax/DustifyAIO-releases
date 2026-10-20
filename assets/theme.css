@@ -242,6 +242,16 @@ body.close .content {
   color: var(--text) !important;
 }
 
+/* Shop labels like **CDMC:** on their own line */
+.markdown-section p > strong:only-child {
+  display: inline-block;
+  margin-top: 1.25rem;
+  margin-bottom: 0.15rem;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--accent) !important;
+}
+
 .markdown-section ol,
 .markdown-section ul {
   padding-left: 1.2rem;
