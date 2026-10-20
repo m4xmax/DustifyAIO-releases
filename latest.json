@@ -1,9 +1,9 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.3.0/DustifyAIO.exe",
-  "notes": "Changelog v. 1.3",
+  "version": "1.4.0",
+  "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.4.0/DustifyAIO.exe",
+  "notes": "Changelog v. 1.4",
   "changelog": [
-    "pushed autoupdate",
-    "added changelog after start"
+    "tweaked CDMC variants",
+    "edited public checkout design"
   ]
 }
