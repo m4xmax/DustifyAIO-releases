@@ -16,15 +16,21 @@
     <link rel="stylesheet" href="../assets/theme.css" />
   </head>
   <body>
+    <div class="lang-switch">
+      <a href="../cs/index.html">Czech</a>
+      <a class="active" href="./index.html">English</a>
+    </div>
     <div id="app"></div>
     <script>
       window.$docsify = {
         name: "DustifyAIO",
+        nameLink: "./index.html",
         logo: "../assets/logo.jpg",
         loadSidebar: true,
         subMaxLevel: 2,
         auto2top: true,
         homepage: "README.md",
+        relativePath: true,
         search: {
           placeholder: "Search…",
           noData: "No results",

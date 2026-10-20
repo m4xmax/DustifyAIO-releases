@@ -8,5 +8,3 @@
 - [Settings](settings.md)
 - [Stats](stats.md)
 - [Podpora](podpora.md)
-
-- [English ↗](../en/)

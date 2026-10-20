@@ -8,5 +8,3 @@
 - [Settings](settings.md)
 - [Stats](stats.md)
 - [Support](support.md)
-
-- [Česky ↗](../cs/)
