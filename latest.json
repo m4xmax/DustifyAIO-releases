@@ -1,9 +1,9 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.4.0/DustifyAIO.exe",
-  "notes": "Changelog v. 1.4",
-  "changelog": [
-    "tweaked CDMC variants",
-    "edited public checkout design"
-  ]
+    "version":  "1.5.0",
+    "url":  "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.5.0/DustifyAIO.exe",
+    "notes":  "Changelog v. 1.5",
+    "changelog":  [
+                      "fixed modal click closing",
+                      "alza tasks fixed"
+                  ]
 }
