@@ -10,7 +10,7 @@
 
 ## Success posts
 
-Don’t forget to post nice **success screenshots** to success channels — grab them from the **Stats** column / section.
+Don’t forget to post nice **success screenshots** to success channels.
 
 That helps the community and staff see real results, and gives you a clean archive.
 

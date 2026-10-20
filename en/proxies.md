@@ -19,9 +19,3 @@ In the UI you can:
 - **test them one by one** to see how each IP performs
 
 Recommendation: test the group before a drop / bigger run. Remove bad proxies so they don’t ruin sessions.
-
-## Tips
-
-- Quality residential usually beats cheap datacenter (depends on the shop)
-- Don’t burn one dying IP across dozens of accounts
-- **Export** proxy groups into your backup set as well

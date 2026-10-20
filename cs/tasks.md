@@ -20,7 +20,7 @@ U tasků můžeš nastavit mimo jiné:
 - Profile
 - Proxy group
 
-Delaye si přizpůsob podle shopu a proxy kvality. Když nevíš, začni s defaulty a upravuj až podle behaviouru.
+Delaye si přizpůsob podle shopu a proxy kvality. Nic neměň, pokud nevíš, co děláš!
 
 ## Proxies u tasků
 

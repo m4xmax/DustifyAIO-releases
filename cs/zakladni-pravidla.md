@@ -34,16 +34,6 @@ Tato pravidla platí pro všechny členy Dustify a uživatele DustifyAIO. Jejich
 - Reselling bota nebo služeb Dustify bez výslovného povolení
 - Veřejné skriptování / tutoriály, které pomáhají obcházet ochranu nebo pravidla
 
-## Důsledky
-
-| Závažnost | Typický důsledek |
-|-----------|------------------|
-| Lehčí porušení | Varování, dočasný ban |
-| Opakované / záměrné | Permanentní ban v Dustify |
-| Leak, crack, útok, obchod s přístupem | Okamžitý ban + případné právní kroky |
-
-Dustify si vyhrazuje právo rozhodnout o sankci podle okolností. Neznalost pravidel neomlouvá.
-
 ## Férový provoz
 
 - Používej bota jen pro sebe a v souladu s členstvím

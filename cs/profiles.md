@@ -8,7 +8,7 @@ Profil = adresa / účet / platební údaje pro konkrétní shop. Bez správnéh
 2. Klikni **New profile**
 3. Vyber **stránku (site)**
 4. Pojmenuj profil (libovolně), **nebo**
-5. Nech si profil **automaticky propsat z Generatoru** — vygenerované účty se propíšou do Profiles a rovnou z nich uděláš ready profily
+5. Je možnost si automaticky propsat profil z Generatoru — vygenerované účty se propíšou do Profiles a rovnou z nich uděláš ready profily
 
 ## Random údaje (CZ / SK)
 

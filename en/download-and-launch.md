@@ -4,8 +4,6 @@
 
 Download the bot **only from the official link on Discord** in the relevant DustifyAIO channel.
 
-> Do not download DustifyAIO from random websites, DMs from “support”, or mirrors. That is the most common path to a scam build.
-
 ## Installation
 
 1. Open the official download link on Discord
@@ -28,10 +26,9 @@ If access fails, check membership and role. Still stuck? Open a ticket — see [
 The bot **updates automatically**.
 
 1. You’ll hear about new versions on Discord
-2. The bot will prompt you to restart (or show an update prompt on launch)
-3. Just **quit and reopen** the bot
+2. Just **quit and reopen** the bot — the update downloads on its own
 
-You usually don’t need to re-download the full setup if the update succeeds. After bigger releases, always check the Discord changelog.
+You usually don’t need to re-download the full setup. After bigger releases, check the Discord changelog.
 
 ## Export / import & backups
 

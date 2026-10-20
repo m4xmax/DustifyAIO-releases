@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>DustifyAIO Guide — CS</title>
-    <link rel="icon" href="assets/logo.jpg" />
+    <title>DustifyAIO Guide</title>
+    <link rel="icon" href="../assets/logo.jpg" />
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
@@ -13,98 +13,18 @@
       href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
       rel="stylesheet"
     />
-    <style>
-      :root {
-        --theme-color: #3dd68c;
-        --bg: #0b0c0f;
-        --panel: #12141a;
-        --border: #2a3040;
-        --text: #eef1f6;
-        --muted: #8b93a7;
-      }
-      body {
-        font-family: "DM Sans", system-ui, sans-serif;
-        background: var(--bg);
-        color: var(--text);
-      }
-      .sidebar {
-        background: var(--panel);
-        border-right: 1px solid var(--border);
-      }
-      .sidebar ul li a {
-        color: var(--muted);
-      }
-      .sidebar ul li a:hover,
-      .sidebar ul li.active > a {
-        color: var(--theme-color);
-      }
-      .app-name-link {
-        color: var(--text) !important;
-        font-weight: 700;
-      }
-      .app-name-link img {
-        height: 28px;
-        width: 28px;
-        border-radius: 6px;
-        vertical-align: middle;
-        margin-right: 8px;
-      }
-      .markdown-section {
-        color: var(--text);
-        max-width: 860px;
-      }
-      .markdown-section h1,
-      .markdown-section h2,
-      .markdown-section h3 {
-        color: var(--text);
-      }
-      .markdown-section a {
-        color: var(--theme-color);
-      }
-      .markdown-section code {
-        background: #1c2029;
-        color: #b8f0d0;
-        font-family: "JetBrains Mono", monospace;
-      }
-      .markdown-section pre {
-        background: #12141a !important;
-        border: 1px solid var(--border);
-        border-radius: 10px;
-      }
-      .markdown-section blockquote {
-        border-left-color: var(--theme-color);
-        background: rgba(61, 214, 140, 0.08);
-        color: var(--muted);
-      }
-      .markdown-section table {
-        display: table;
-        width: 100%;
-      }
-      .markdown-section th,
-      .markdown-section td {
-        border-color: var(--border);
-      }
-      .markdown-section th {
-        background: #171a21;
-      }
-      .search input {
-        background: #171a21;
-        border-color: var(--border);
-        color: var(--text);
-      }
-    </style>
+    <link rel="stylesheet" href="../assets/theme.css" />
   </head>
   <body>
-    <div id="app">Načítám…</div>
+    <div id="app"></div>
     <script>
       window.$docsify = {
         name: "DustifyAIO",
-        logo: "assets/logo.jpg",
+        logo: "../assets/logo.jpg",
         loadSidebar: true,
         subMaxLevel: 2,
         auto2top: true,
         homepage: "README.md",
-        basePath: "./",
         search: {
           placeholder: "Hledat…",
           noData: "Nic nenalezeno",

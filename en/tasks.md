@@ -20,7 +20,7 @@ On tasks you can configure, among other things:
 - Profile
 - Proxy group
 
-Tune delays to the shop and proxy quality. If you’re unsure, start with defaults and adjust based on behavior.
+Tune delays to the shop and proxy quality. Don’t change anything if you don’t know what you’re doing!
 
 ## Proxies on tasks
 

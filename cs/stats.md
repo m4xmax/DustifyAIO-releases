@@ -10,7 +10,7 @@ Sekce **Stats** je přehled tvých checkoutů.
 
 ## Success posty
 
-Nezapomeň posílat hezké **success screeny** na success posty — ber je ze sloupce / sekce **Stats**.
+Nezapomeň posílat hezké **success screeny** na success posty.
 
 Komunita i staff díky tomu vidí reálné výsledky a ty máš přehledný archiv.
 

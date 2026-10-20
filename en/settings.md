@@ -18,8 +18,4 @@ Without webhooks it’s easy to miss a payment window or order details.
 
 In Settings you can set **global delays**.
 
-If you **don’t know what you’re doing, don’t change the numbers**. Bad delays can hurt success rate or increase errors.
-
-## Tip
-
-After configuring Settings, **export** / note which webhook goes where so a reinstall is painless.
+If you don’t know what you’re doing, don’t change anything. Bad delays can hurt success rate or increase errors.

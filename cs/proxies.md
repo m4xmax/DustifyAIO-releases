@@ -19,9 +19,3 @@ V UI můžeš:
 - **testovat postupně** a vidět, jak na tom jednotlivé IP jsou
 
 Doporučení: před dropem / větším runem nejdřív otestuj group. Bad proxy vyhoď, ať ti nekazí session.
-
-## Tip
-
-- Kvalitní residential obvykle > levný datacenter (záleží na shopu)
-- Stejnou umírající IP nenech žrát desítky účtů
-- Proxy groupy taky **exportuj** do backupu

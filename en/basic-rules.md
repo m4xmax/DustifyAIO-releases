@@ -34,16 +34,6 @@ These rules apply to every Dustify member and DustifyAIO user. Breaking them can
 - Reselling the bot or Dustify services without explicit permission
 - Public scripts / tutorials that help bypass protection or these rules
 
-## Consequences
-
-| Severity | Typical outcome |
-|----------|-----------------|
-| Minor violation | Warning, temporary ban |
-| Repeated / intentional | Permanent Dustify ban |
-| Leak, crack, attack, selling access | Immediate ban + possible legal action |
-
-Dustify reserves the right to decide sanctions based on the situation. Not knowing the rules is not an excuse.
-
 ## Fair use
 
 - Use the bot only for yourself and within your membership

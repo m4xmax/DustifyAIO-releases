@@ -4,8 +4,6 @@
 
 Bota stáhneš **pouze z oficiálního odkazu na Discordu** v příslušném DustifyAIO kanálu.
 
-> Nestahuj DustifyAIO z cizích webů, DM od „supportu“ ani mirrorů. To je nejčastější cesta k scam buildu.
-
 ## Instalace
 
 1. Otevři oficiální download odkaz na Discordu
@@ -28,10 +26,9 @@ Když přístup neprojde, zkontroluj členství a roli. Pořád nic? Otevři tic
 Bot se **aktualizuje automaticky**.
 
 1. O nové verzi se dozvíš na Discordu
-2. Bot tě vyzve k restartu (nebo uvidíš update výzvu při startu)
-3. Stačí bota **vypnout a znovu zapnout**
+2. Stačí bota **vypnout a znovu zapnout** — update se stáhne sám
 
-Není potřeba znovu stahovat celý setup, pokud update projde v pořádku. Po větším releasu vždy sleduj Discord changelog.
+Není potřeba znovu stahovat celý setup. Po větším releasu sleduj Discord changelog.
 
 ## Export / import a backupy
 

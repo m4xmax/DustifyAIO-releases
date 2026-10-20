@@ -8,7 +8,7 @@ A profile = address / account / payment details for a specific shop. Without a c
 2. Click **New profile**
 3. Select the **site**
 4. Name the profile however you like, **or**
-5. Let it **auto-fill from the Generator** — generated accounts sync into Profiles so you can turn them into ready profiles quickly
+5. You can auto-fill a profile from the Generator — generated accounts sync into Profiles so you can turn them into ready profiles quickly
 
 ## Random details (CZ / SK)
 
