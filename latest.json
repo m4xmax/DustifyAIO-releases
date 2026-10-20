@@ -1,10 +1,9 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.2.0/DustifyAIO.exe",
-  "notes": "Changelog v. 1.2",
+  "version": "1.3.0",
+  "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.3.0/DustifyAIO.exe",
+  "notes": "Changelog v. 1.3",
   "changelog": [
-    "automatic updates on splash (download + restart)",
-    "changelog popup after update",
-    "taskbar shows DustifyAIO instead of Electron"
+    "pushed autoupdate",
+    "added changelog after start"
   ]
 }
