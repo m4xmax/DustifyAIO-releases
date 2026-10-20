@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.1.0/DustifyAIO.exe",
-  "notes": "Changelog v. 1.1",
+  "version": "1.2.0",
+  "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.2.0/DustifyAIO.exe",
+  "notes": "Changelog v. 1.2",
   "changelog": [
-    "new shopify handling",
-    "fixed alza gen errors",
-    "hidden PowerShell windows on login"
+    "automatic updates on splash (download + restart)",
+    "changelog popup after update",
+    "taskbar shows DustifyAIO instead of Electron"
   ]
 }
