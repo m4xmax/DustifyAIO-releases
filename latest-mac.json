@@ -1,9 +1,12 @@
-{
-  "changelog": [
-    "mac version first release",
-    "autoupdate"
-  ],
-  "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.10.0/DustifyAIO-mac-1.10.0.zip",
-  "version": "1.10.0",
-  "notes": "Changelog v. 1.10"
+﻿{
+    "changelog":  [
+                      "Discord widget while running DustifyAIO",
+                      "Ui changes",
+                      "Backend tweaks",
+                      "Mac silent auto-update (installs to /Applications when possible)"
+                  ],
+    "url":  "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.11.0/DustifyAIO-mac-1.11.0.zip",
+    "version":  "1.11.0",
+    "_cache_bust":  "2026-10-21T13:25:58.1994377Z",
+    "notes":  "Changelog v. 1.11"
 }
