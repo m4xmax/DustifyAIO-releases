@@ -1,8 +1,1 @@
-{
-  "changelog": [
-    "public checkout webhook style (color, full site host, footer)"
-  ],
-  "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.10.0/DustifyAIO.exe",
-  "version": "1.10.0",
-  "notes": "Changelog v. 1.10"
-}
+{"changelog":["public checkout webhook style (color, full site host, footer)"],"url":"https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.10.0/DustifyAIO.exe","version":"1.10.0","_cache_bust":"2026-10-21T11:50:00.4196722Z","notes":"Changelog v. 1.10"}
