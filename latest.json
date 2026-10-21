@@ -1,8 +1,9 @@
 {
-    "changelog":  [
-                      "public checkout webhook style (color, full site host, footer)"
-                  ],
-    "url":  "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.10.0/DustifyAIO.exe",
-    "version":  "1.10.0",
-    "notes":  "Changelog v. 1.10"
+  "changelog": [
+    "mac version first release",
+    "autoupdate"
+  ],
+  "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.10.0/DustifyAIO.exe",
+  "version": "1.10.1",
+  "notes": "Changelog v. 1.10.1"
 }
