@@ -1,1 +1,9 @@
-{"changelog":["mac version first release","autoupdate"],"url":"https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.10.0/DustifyAIO-mac-1.10.0.zip","version":"1.10.0","_cache_bust":"2026-10-21T11:50:01.4016011Z","notes":"Changelog v. 1.10"}
+{
+  "changelog": [
+    "mac version first release",
+    "autoupdate"
+  ],
+  "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.10.0/DustifyAIO-mac-1.10.0.zip",
+  "version": "1.10.0",
+  "notes": "Changelog v. 1.10"
+}
