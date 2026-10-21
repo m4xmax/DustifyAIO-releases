@@ -1,1 +1,11 @@
-{"changelog":["public checkout webhook style (color, full site host, footer)"],"url":"https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.10.0/DustifyAIO.exe","version":"1.10.0","_cache_bust":"2026-10-21T11:50:00.4196722Z","notes":"Changelog v. 1.10"}
+﻿{
+    "changelog":  [
+                      "Discord widget while running DustifyAIO",
+                      "Ui changes",
+                      "Backend tweaks"
+                  ],
+    "url":  "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.11.0/DustifyAIO.exe",
+    "version":  "1.11.0",
+    "_cache_bust":  "2026-10-21T13:21:16.4468932Z",
+    "notes":  "Changelog v. 1.11"
+}
