@@ -1,12 +1,12 @@
 ﻿{
     "changelog":  [
-                      "Discord widget while running DustifyAIO",
-                      "Ui changes",
-                      "Backend tweaks",
-                      "Mac silent auto-update (installs to /Applications when possible)"
+                      "added better task creating - MASS create supported!",
+                      "added task copying",
+                      "added CDMC pickup points (in profiles)",
+                      "random values in profiles upgraded"
                   ],
-    "url":  "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.11.0/DustifyAIO-mac-1.11.0.zip",
-    "version":  "1.11.0",
-    "_cache_bust":  "2026-10-21T13:31:28.8122366Z",
-    "notes":  "Changelog v. 1.11"
+    "url":  "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.12.0/DustifyAIO-mac-1.12.0.zip",
+    "version":  "1.12.0",
+    "_cache_bust":  "2026-10-25T20:29:25.6963621Z",
+    "notes":  "Changelog v. 1.12"
 }
