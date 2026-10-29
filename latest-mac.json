@@ -1,13 +1,10 @@
-﻿{
+{
     "changelog":  [
-                      "fix auto-update (was stuck on old version after download)",
-                      "added better task creating - MASS create supported!",
-                      "added task copying",
-                      "added CDMC pickup points (in profiles)",
-                      "random values in profiles upgraded"
+                      "added checkout loop for tasks (bot will still check out until u stop him)",
+                      "ui improvements"
                   ],
-    "url":  "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.12.1/DustifyAIO-mac-1.12.1.zip",
-    "version":  "1.12.1",
-    "_cache_bust":  "2026-10-25T20:43:23.5009250Z",
-    "notes":  "Changelog v. 1.12.1"
+    "url":  "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.13.0/DustifyAIO-mac-1.13.0.zip",
+    "version":  "1.13.0",
+    "_cache_bust":  "2026-10-29T23:02:24.5469391Z",
+    "notes":  "Changelog v. 1.13"
 }
