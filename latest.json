@@ -1,10 +1,11 @@
 {
     "changelog":  [
+                      "fix Mac auto-update loop (was re-downloading after install)",
                       "added checkout loop for tasks (bot will still check out until u stop him)",
                       "ui improvements"
                   ],
-    "url":  "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.13.0/DustifyAIO.exe",
-    "version":  "1.13.0",
-    "_cache_bust":  "2026-10-29T23:02:24.5469391Z",
-    "notes":  "Changelog v. 1.13"
+    "url":  "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.13.1/DustifyAIO.exe",
+    "version":  "1.13.1",
+    "_cache_bust":  "2026-10-29T23:20:58.7431343Z",
+    "notes":  "Changelog v. 1.13.1"
 }
