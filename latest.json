@@ -1,9 +1,10 @@
 {
     "changelog": [
-        "fixed alza account generator"
+        "alza new module added (backup)",
+        "alza errors on task start fixed"
     ],
-    "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.14.1/DustifyAIO.exe",
-    "version": "1.14.1",
-    "_cache_bust": "2026-11-14T19:56:56.953537Z",
-    "notes": "Changelog v. 1.14.1"
+    "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.15.0/DustifyAIO.exe",
+    "version": "1.15.0",
+    "_cache_bust": "2026-11-16T22:48:54.388525Z",
+    "notes": "Changelog v. 1.15"
 }
