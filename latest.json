@@ -1,9 +1,9 @@
 {
     "changelog": [
-        "fixed Alza+ products"
+        "alza+ products fix for mac"
     ],
-    "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.15.1/DustifyAIO.exe",
-    "version": "1.15.1",
-    "_cache_bust": "2026-11-17T12:20:18.593139Z",
-    "notes": "Changelog v. 1.15.1"
+    "url": "https://github.com/m4xmax/DustifyAIO-releases/releases/download/v1.15.2/DustifyAIO.exe",
+    "version": "1.15.2",
+    "_cache_bust": "2026-11-17T23:11:07.948399Z",
+    "notes": "Changelog v. 1.15.2"
 }
